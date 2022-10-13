@@ -1,0 +1,49 @@
+.btn-outline-success{
+    --bs-btn-color: #b721ff !important;
+    --bs-btn-border-color: #b721ff !important;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #b721ff !important;
+    --bs-btn-hover-border-color: #b721ff !important;
+    --bs-btn-focus-shadow-rgb: 25,135,84;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #b721ff !important;
+    --bs-btn-active-border-color: #b721ff !important;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #b721ff !important;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #b721ff !important;
+    --bs-gradient: none;
+}
+
+.container-list{
+    margin-top: 100px !important;
+    width: "100%" !important;
+    flex: 1 !important;
+    align-items: center !important;
+    justify-content: center !important;
+    align-content: center !important;
+    justify-items: center !important;
+}
+
+.container-listadm{
+    margin-top: 60px !important;
+
+}
+
+.container-listadm a{
+    color: white;
+}
+
+.nav-link {
+    color: #21D4FD !important;
+    --bs-nav-link-color: #21D4FD !important;
+}
+
+.page-header {
+    margin-top: 60px !important;
+}
+
+.pagtext{
+    color: white;
+    text-decoration: none;
+}
